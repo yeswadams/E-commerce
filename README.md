@@ -1,5 +1,9 @@
-## Al1 Store UI Design
+# Al1 Store UI Design on Desktop
 ![all1store-netlify-app-1024x768desktop-5ce692](https://github.com/yeswadams/E-commerce/assets/130048211/79d187d7-79fc-4af2-8f60-e082050189c4)
+
+# Al1 Store UI Design on Mobile
+![all1store-netlify-app-480x768phone-5ce692](https://github.com/yeswadams/E-commerce/assets/130048211/8c4f3280-acd1-434b-aea0-819728f4e9ac)
+
 ## 🚀 About Me
 I'm a full stack developer passionate about creating robust and scalable web applications that streamline processes and enhance user experiences. With expertise in both front-end and back-end development, I enjoy tackling complex problems and turning ideas into reality. Whether it's crafting elegant user interfaces or optimizing database performance, I thrive on building efficient solutions that make a positive impact.
 
