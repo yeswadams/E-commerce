@@ -72,4 +72,5 @@ Al1.Store is designed to be scalable, secure, and user-friendly, providing both 
 **Client:** HTML, CSS, JavaSript
 
 **Server:** Node, Express
+**DataBase:** MySql
 
